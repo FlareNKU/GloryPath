@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://flarenku.github.io/GloryPath/blog</id>
+    <title>NKU Blog</title>
+    <updated>2023-06-18T06:14:15.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://flarenku.github.io/GloryPath/blog"/>
+    <subtitle>NKU Blog</subtitle>
+    <icon>https://flarenku.github.io/GloryPath/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[聚散天涯，依依南开]]></title>
+        <id>https://flarenku.github.io/GloryPath/blog/聚散天涯，依依南开</id>
+        <link href="https://flarenku.github.io/GloryPath/blog/聚散天涯，依依南开"/>
+        <updated>2023-06-18T06:14:15.000Z</updated>
+        <author>
+            <name>苑伟锋</name>
+            <uri>https://github.com/YwFlare</uri>
+        </author>
+    </entry>
+</feed>
