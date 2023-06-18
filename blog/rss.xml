@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>NKU Blog</title>
-        <link>https://flarenku.github.io/GloryPath/blog</link>
+        <link>http://nkuflare.com/blog</link>
         <description>NKU Blog</description>
         <lastBuildDate>Sun, 18 Jun 2023 06:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[聚散天涯，依依南开]]></title>
-            <link>https://flarenku.github.io/GloryPath/blog/聚散天涯，依依南开</link>
-            <guid>https://flarenku.github.io/GloryPath/blog/聚散天涯，依依南开</guid>
+            <link>http://nkuflare.com/blog/聚散天涯，依依南开</link>
+            <guid>http://nkuflare.com/blog/聚散天涯，依依南开</guid>
             <pubDate>Sun, 18 Jun 2023 06:14:15 GMT</pubDate>
         </item>
     </channel>
