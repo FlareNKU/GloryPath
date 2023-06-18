@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ywflare.top/',
+  url: 'https://flarenku.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/GloryPath/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'YwFlare', // Usually your GitHub org/user name.
+  organizationName: 'FlareNKU', // Usually your GitHub org/user name.
   projectName: 'GloryPath', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/YwFlare/GloryPath/',
+            'https://github.com/FlareNKU/GloryPath/',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           blogSidebarCount: 0,
           editUrl:
-            'https://github.com/YwFlare/GloryPath/',
+            'https://github.com/FlareNKU/GloryPath/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: '关于', position: 'right'},
           {
-            href: 'https://github.com/YwFlare/GloryPath',
+            href: 'https://github.com/FlareNKU/GloryPath',
             label: 'GitHub',
             position: 'right',
           },
