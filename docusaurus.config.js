@@ -59,6 +59,7 @@ const config = {
     ],
   ],
 
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -134,7 +135,16 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      giscus: {
+        repo: 'FlareNKU/GloryPath',
+        repoId: 'R_kgDOJw07-Q',
+        category: 'Announcements',
+        categoryId: 'DIC_kwDOJw07-c4CXSsV'
+      },
+      
     }),
+  clientModules: [require.resolve('./src/clientModules/routeModules.ts')]
 };
 
 module.exports = config;
+
