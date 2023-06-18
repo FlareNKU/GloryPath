@@ -1,7 +1,5 @@
 <div align=center><img src="src/others/NKU.png" height = "100"/>
 
-<center>荣耀之路</center>
-
 <div align=left>
 
 ## 前言
