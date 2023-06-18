@@ -1,5 +1,5 @@
 ---
-slug: 19-刘洋-后端开发-小黑盒
+slug: 19-liuyang-jiuye
 title: 19-刘洋-后端开发-小黑盒
 authors:
   name: 刘洋
@@ -11,8 +11,10 @@ tags: [就业]
 
 
 说明--以上为刘洋的样例--以下部分删除
+
+文件名同slug，不要出现中文，拼音代替
 ---
-slug: 文章的label，与标题和文件名相同即可
+slug: label(19-name-jiuye/baoyan/kaoyan/chuguo)
 title: 标题(19-姓名-去向)
 authors:
   name: 姓名(可用昵称)
