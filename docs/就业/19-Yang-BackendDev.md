@@ -1,10 +1,9 @@
 ---
-slug: 19-刘洋-互联网开发-小黑盒
-title: 19-刘洋-互联网开发-小黑盒
+slug: 19-Yang-BackendDev
+title: 19-Yang-BackendDev
 authors:
-  name: 刘洋
-  title: 开发工程师 @ 小黑盒
-  url: https://github.com/wgao19
+  name: Yang
+  title: 后端开发工程师 @ 小黑盒
 tags: [就业]
 ---
 
