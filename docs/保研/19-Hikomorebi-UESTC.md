@@ -1,6 +1,6 @@
 ---
-slug: 19-Kunbin-UESTC
-title: 19-Kunbin-UESTC
+slug: 19-Hikomorebi-UESTC
+title: 19-Hikomorebi-UESTC
 authors:
   name: Kunbin
   title: CS MS @ UESTC
