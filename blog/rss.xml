@@ -4,7 +4,7 @@
         <title>NKU Blog</title>
         <link>http://nkuflare.com/blog</link>
         <description>NKU Blog</description>
-        <lastBuildDate>Mon, 10 Jul 2023 21:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 22:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[prologue]]></title>
             <link>http://nkuflare.com/blog/prologue</link>
             <guid>http://nkuflare.com/blog/prologue</guid>
-            <pubDate>Mon, 10 Jul 2023 21:36:26 GMT</pubDate>
+            <pubDate>Mon, 10 Jul 2023 22:18:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
