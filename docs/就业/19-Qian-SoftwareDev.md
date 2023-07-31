@@ -1,5 +1,4 @@
 ---
-slug: 19-Qian-SoftwareDev
 title: 19-Qian-SoftwareDev
 authors:
   name: Qian

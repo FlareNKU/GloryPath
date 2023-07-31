@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NKU',
+  title: 'CS',
   tagline: '荣耀之路',
   favicon: 'img/favicon.ico',
 

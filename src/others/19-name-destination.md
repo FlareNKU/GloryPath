@@ -1,35 +1,26 @@
 ---
-slug: 19-Yang-BackendDev
 title: 19-Yang-BackendDev
 authors:
   name: Yang
   title: 后端开发工程师 @ 小黑盒
-  url: 
-  image_url: 
 tags: [就业]
 ---
 
 
 说明--以上为刘洋的样例--以下部分删除
 
-文件名同slug
+文件名同title
 ---
-slug: label
 title: 标题(19-昵称-去向)
 authors:
   name: 昵称
   title: 去向，例如 测试工程师 @ 小米  或  CS MS @ UESTC
-  url: 个人链接或邮箱等联系方式(没有的话此行可删除)
-  image_url: 头像链接(没有的话此行可删除)
 tags: [就业/保研/考研/出国]
 ---
 
+## **md文件，格式不限，隐私可模糊处理，以下内容可供参考**
 
-## **畅所欲言，格式不限，隐私可模糊处理，以下内容可供参考**
-
-## **畅所欲言，格式不限，隐私可模糊处理，以下内容可供参考**
-
-## **畅所欲言，格式不限，隐私可模糊处理，以下内容可供参考**
+升学就业 海外经历 课程学习 学生工作 社团生活 实习经历 竞赛准备 踩过的坑 等等随意发挥
 
 ## 就业
 
@@ -54,7 +45,3 @@ https://zhuanlan.zhihu.com/p/569828463
 https://zhuanlan.zhihu.com/p/617418138
 
 https://www.cnblogs.com/guapiii/p/way2sigs.html
-
-## 其他
-
-课程学习 学生工作 社团生活 实习经历 竞赛准备 踩过的坑 等等

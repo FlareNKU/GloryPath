@@ -1,5 +1,4 @@
 ---
-slug: 19-Hikomorebi-UESTC
 title: 19-Hikomorebi-UESTC
 authors:
   name: Kunbin

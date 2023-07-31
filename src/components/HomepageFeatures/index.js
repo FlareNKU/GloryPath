@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        南开大学计网毕业生经验指南
+        南开大学CS毕业生经验指南
       </>
     ),
   },

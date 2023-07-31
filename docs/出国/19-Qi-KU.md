@@ -1,8 +1,7 @@
 ---
-slug: 19-Qiqi-KU
-title: 19-Qiqi-KU
+title: 19-Qi-KU
 authors:
-  name: Qiqi
+  name: Qi
   title: CS MS @ KU
 tags: [出国]
 ---

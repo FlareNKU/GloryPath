@@ -1,5 +1,4 @@
 ---
-slug: 19-Yang-BackendDev
 title: 19-Yang-BackendDev
 authors:
   name: Yang

@@ -1,5 +1,4 @@
 ---
-slug: 19-Walker-HITSZ
 title: 19-Walker-HITSZ
 authors:
   name: Walker
