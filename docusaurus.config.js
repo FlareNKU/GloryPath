@@ -42,15 +42,15 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/FlareNKU/GloryPath/',
+            'https://github.com/FlareNKU/GloryPath/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          blogSidebarCount: 0,
+          blogSidebarCount: 'ALL',
           editUrl:
-            'https://github.com/FlareNKU/GloryPath/',
+            'https://github.com/FlareNKU/GloryPath/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: '荣耀之路',
           },
-          {to: '/blog', label: '关于', position: 'right'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/FlareNKU/GloryPath',
             label: 'GitHub',
