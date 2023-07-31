@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CS Blog</title>
         <link>http://nkuflare.com/blog</link>
         <description>CS Blog</description>
-        <lastBuildDate>Mon, 31 Jul 2023 14:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 14:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,9 @@
             <title><![CDATA[prologue]]></title>
             <link>http://nkuflare.com/blog/prologue</link>
             <guid>http://nkuflare.com/blog/prologue</guid>
-            <pubDate>Mon, 31 Jul 2023 14:54:33 GMT</pubDate>
+            <pubDate>Mon, 31 Jul 2023 14:59:30 GMT</pubDate>
+            <description><![CDATA[待更...]]></description>
+            <content:encoded><![CDATA[<p>待更...</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
