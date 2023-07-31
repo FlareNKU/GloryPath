@@ -10,5 +10,5 @@ sidebar_position: 1
 
 历史总是惊人地相似，未来某一天一定会有人和你遇到同样的境况，所以无论去向、无论水平，你的分享可能对未来的孩子产生至关重要的作用。往事如云烟，我想让他人如何待我，那我应该用同种方式去待人。但行好事，莫问前程，希望我们能够撑起雨伞。
 
-1. 参考[模版](https://github.com/FlareNKU/GloryPath/tree/main/src/others/19-name-destination.md)，markdown格式，编辑好文档后邮箱发送至ywflare@gmail.com
+1. 参考[模版](https://github.com/FlareNKU/GloryPath/tree/main/src/others/19-name-destination.md)，markdown文件，编辑后邮箱发送至ywflare@gmail.com
 2. 将文档放于[`docs`](https://github.com/FlareNKU/GloryPath/tree/main/docs)下对应文件夹，附件放于[`file`](https://github.com/FlareNKU/GloryPath/tree/main/docs/files)中，然后pull request
