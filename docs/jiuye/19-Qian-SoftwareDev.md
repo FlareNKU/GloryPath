@@ -1,11 +1,8 @@
 ---
+id: 19-Qian-SoftwareDev
 title: 19-Qian-SoftwareDev
-authors:
-  name: Qian
-  title: C++研发工程师
 tags: [就业]
 ---
-
 # 求职流程
 一般校招流程：投简历 → 笔试 → 多轮专业面试 → HR面试 → 发放offer → 实习（可能有）→ 入职
 

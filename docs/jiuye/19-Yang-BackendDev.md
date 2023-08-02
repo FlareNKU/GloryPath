@@ -1,12 +1,8 @@
 ---
+id: 19-Yang-BackendDev
 title: 19-Yang-BackendDev
-authors:
-  name: Yang
-  title: 后端开发工程师 @ 小黑盒
 tags: [就业]
 ---
-
-
 
 # 前言
 这里主要介绍我在校招之后的一些经验和教训，我感觉关键是要自己去多搜集一些相关的信息，看的多了自然也知道怎么去做。

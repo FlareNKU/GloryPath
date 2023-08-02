@@ -1,10 +1,9 @@
 ---
+id: 19-Qi-KU
 title: 19-Qi-KU
-authors:
-  name: Qi
-  title: CS MS @ KU
 tags: [出国]
 ---
+
 
 ## 基本信息
 

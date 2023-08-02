@@ -1,11 +1,8 @@
 ---
+id: 19-Walker-HITSZ
 title: 19-Walker-HITSZ
-authors:
-  name: Walker
-  title: CS MS @ HITSZ
 tags: [保研]
 ---
-
 
 ## Background
 

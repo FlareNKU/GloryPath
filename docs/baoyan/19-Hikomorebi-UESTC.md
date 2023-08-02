@@ -1,8 +1,7 @@
 ---
 id: 19-Hikomorebi-UESTC
 title: 19-Hikomorebi-UESTC
-tags:
-  - 保研
+tags: [保研]
 ---
 
 ## 背景

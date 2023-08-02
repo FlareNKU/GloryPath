@@ -1,20 +1,6 @@
 ---
-title: 19-Yang-BackendDev
-authors:
-  name: Yang
-  title: 后端开发工程师 @ 小黑盒
-tags: [就业]
----
-
-
-说明--以上为刘洋的样例--以下部分删除
-
-文件名同title
----
-title: 标题(19-昵称-去向)
-authors:
-  name: 昵称
-  title: 去向，例如 测试工程师 @ 小米  或  CS MS @ UESTC
+id: 文件名
+title: 文件名
 tags: [就业/保研/考研/出国]
 ---
 
