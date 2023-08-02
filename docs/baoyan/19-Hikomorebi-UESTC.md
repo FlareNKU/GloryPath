@@ -1,9 +1,8 @@
 ---
+id: 19-Hikomorebi-UESTC
 title: 19-Hikomorebi-UESTC
-authors:
-  name: Kunbin
-  title: CS MS @ UESTC
-tags: [保研]
+tags:
+  - 保研
 ---
 
 ## 背景
