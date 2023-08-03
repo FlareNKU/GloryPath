@@ -12,3 +12,10 @@ sidebar_position: 1
 
 1. 参考[模版](https://github.com/FlareNKU/GloryPath/tree/main/src/template/19-name-destination.md)，markdown文件，编辑文档后邮箱发送至ywflare@gmail.com
 2. 将文档放于[`docs`](https://github.com/FlareNKU/GloryPath/tree/main/docs)下对应文件夹，图片放于[`pictures`](https://github.com/FlareNKU/GloryPath/tree/main/docs/pictures)中，然后pull request
+
+
+## 交流群
+
+建了些微信交流群，有兴趣的可以加，只建了考研/出国/就业的群，我不太懂保研所以没建群，有懂的朋友可以拉个群
+
+![](../static/img/wechat.png)
