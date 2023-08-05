@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7110],{2505:e=>{e.exports=JSON.parse('{"title":"\u4fdd\u7814","slug":"/category/\u4fdd\u7814","permalink":"/docs/category/\u4fdd\u7814","navigation":{"previous":{"title":"intro","permalink":"/docs/intro"},"next":{"title":"19-Hikomorebi-UESTC","permalink":"/docs/baoyan/19-Hikomorebi-UESTC"}}}')}}]);
