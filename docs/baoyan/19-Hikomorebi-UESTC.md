@@ -46,7 +46,7 @@ tags: [保研]
 
   这里给出绿群内部的学校排名（仅供参考）：
 
-  ![](../pictures/cs-rank.jpg)
+  ![](../files/cs-rank.jpg)
 
 
 
