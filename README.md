@@ -1,5 +1,3 @@
-<div align=center><img src="static/img/nku.png" height = "100"/>
-
 <div align=left>
 
 ## 通知
